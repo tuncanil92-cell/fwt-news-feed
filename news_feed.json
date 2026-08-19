@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T03:56:59Z",
+  "updatedAt": "2026-08-19T05:11:44Z",
   "articles": [
     {
       "id": "live-1",
@@ -880,6 +880,39 @@
       "publishedAt": "2025-11-12T00:00:00Z",
       "readMinutes": 10,
       "sourceUrl": "https://www.fwturkiye.net/news/gadget-review%3A-release-of-new-airy-pods"
+    },
+    {
+      "id": "live-81",
+      "title": "Günde 5 Dakika Koşu: Tutarlılık Hakkında Bildiğinizi Sandığınız Her Şeyi Değiştirebilir",
+      "summary": "Runner's World'ün Ağustos 2026 sayısından bir deneyim: günde sadece beş dakika koşma taahhüdü tutarlılığı ve alışkanlık oluşturmayı nasıl dönüştürüyor; spor salonu operatörleri için üye tutma dersleri.",
+      "category": "Beslenme & Sağlık",
+      "imageUrl": "https://static.wixstatic.com/media/5f0988_f7164a5cb6a94e02ad8104f5e08b6811~mv2.png/v1/fill/w_1200,h_700,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/5f0988_f7164a5cb6a94e02ad8104f5e08b6811~mv2.png",
+      "author": "Fitness & Wellness Türkiye",
+      "publishedAt": "2026-08-17T00:00:00Z",
+      "readMinutes": 7,
+      "sourceUrl": "https://www.fwturkiye.net/news/gunde-5-dakika-kosu"
+    },
+    {
+      "id": "live-82",
+      "title": "Koşu Yaralanmalarında Yeni Kural: Son 30 Günün En Uzun Koşusunu %10'dan Fazla Geçme",
+      "summary": "British Journal of Sports Medicine'de yayımlanan 5.205 koşucu ve 588.071 seanslık kohort çalışması, koşu yaralanmalarını öngörmede haftalık mesafeden çok tek seanstaki ani mesafe artışının belirleyici olduğunu ortaya koyuyor.",
+      "category": "Beslenme & Sağlık",
+      "imageUrl": "https://static.wixstatic.com/media/5f0988_f38dec19706e4005b3e443c9131efc04~mv2.png/v1/fill/w_1200,h_700,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/5f0988_f38dec19706e4005b3e443c9131efc04~mv2.png",
+      "author": "Fitness & Wellness Türkiye",
+      "publishedAt": "2026-08-16T00:00:00Z",
+      "readMinutes": 9,
+      "sourceUrl": "https://www.fwturkiye.net/news/kosu-yaralanmaları"
+    },
+    {
+      "id": "live-83",
+      "title": "2026 HFA Avrupa Kongresi: Fitness Sektörünün Geleceğini Şekillendirecek Araştırmalar Londra'da Buluşuyor",
+      "summary": "Health & Fitness Association'ın 24-26 Eylül'de Londra'da düzenleyeceği Avrupa Kongresi'nde yapay zeka, GLP-1 araştırmaları, üye tutma verileri ve küresel pazar raporu gündemde.",
+      "category": "Sektör Haberleri",
+      "imageUrl": "https://static.wixstatic.com/media/5f0988_82b856793adb4fd69e91e428b0889faf~mv2.png/v1/fill/w_1200,h_700,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/5f0988_82b856793adb4fd69e91e428b0889faf~mv2.png",
+      "author": "Fitness & Wellness Türkiye",
+      "publishedAt": "2026-08-15T00:00:00Z",
+      "readMinutes": 6,
+      "sourceUrl": "https://www.fwturkiye.net/news/fitness-avrupa-kongresi"
     }
   ]
 }
