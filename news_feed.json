@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T05:11:44Z",
+  "updatedAt": "2026-08-20T05:08:45Z",
   "articles": [
     {
       "id": "live-1",
@@ -913,6 +913,17 @@
       "publishedAt": "2026-08-15T00:00:00Z",
       "readMinutes": 6,
       "sourceUrl": "https://www.fwturkiye.net/news/fitness-avrupa-kongresi"
+    },
+    {
+      "id": "live-84",
+      "title": "Maratonda Başarının Ortak Paydası: Piramidal Antrenman Dağılımı",
+      "summary": "119.452 koşucu, 151.813 maraton. Sports Medicine'de yayımlanan bu büyük ölçekli çalışma, başarılı maraton koşucularının antrenman yoğunluklarını nasıl dağıttığını ortaya koydu. Cevap sürpriz değil — ama çoğu koşucunun yaptığının tam tersi.",
+      "category": "Beslenme & Sağlık",
+      "imageUrl": "https://static.wixstatic.com/media/5f0988_6db26a22fee843db8ae5ae71f4461f73~mv2.png/v1/fill/w_1200,h_700,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/5f0988_6db26a22fee843db8ae5ae71f4461f73~mv2.png",
+      "author": "Fitness & Wellness Türkiye",
+      "publishedAt": "2026-08-19T00:00:00Z",
+      "readMinutes": 8,
+      "sourceUrl": "https://www.fwturkiye.net/news/kosu-antrenman-plan%C4%B1"
     }
   ]
 }
