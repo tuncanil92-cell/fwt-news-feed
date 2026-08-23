@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T05:08:45Z",
+  "updatedAt": "2026-08-23T05:48:52Z",
   "articles": [
     {
       "id": "live-1",
@@ -924,6 +924,17 @@
       "publishedAt": "2026-08-19T00:00:00Z",
       "readMinutes": 8,
       "sourceUrl": "https://www.fwturkiye.net/news/kosu-antrenman-plan%C4%B1"
+    },
+    {
+      "id": "live-85",
+      "title": "Neden İnsanlar Egzersizi Bırakıyor? 2026 Verilerinin Söyledikleri",
+      "summary": "Yeni üyelerin %63'ü üçüncü aya ulaşamadan bırakıyor. Fitness uygulamalarının %90'ından fazlası 30 gün içinde terk ediliyor. Alışkanlıkların yerleşmesi ortalama 66 gün alıyor. Egzersiz bırakma bilimi ne söylüyor ve spor salonu operatörleri için ne anlama geliyor?",
+      "category": "Tesis Yönetimi",
+      "imageUrl": "https://static.wixstatic.com/media/5f0988_b0e298c203084bf7b53dd4b78b133653~mv2.png/v1/fill/w_1200,h_700,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/5f0988_b0e298c203084bf7b53dd4b78b133653~mv2.png",
+      "author": "Fitness & Wellness Türkiye",
+      "publishedAt": "2026-08-21T00:00:00Z",
+      "readMinutes": 9,
+      "sourceUrl": "https://www.fwturkiye.net/news/uyeler-egzersizi-neden-birakiyor"
     }
   ]
 }
