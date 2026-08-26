@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T05:48:52Z",
+  "updatedAt": "2026-08-26T07:30:00Z",
   "articles": [
     {
       "id": "live-1",
@@ -935,6 +935,50 @@
       "publishedAt": "2026-08-21T00:00:00Z",
       "readMinutes": 9,
       "sourceUrl": "https://www.fwturkiye.net/news/uyeler-egzersizi-neden-birakiyor"
+    },
+    {
+      "id": "live-86",
+      "title": "Minimum Efektif Doz: Daha Az Antrenman Daha Fazla Üye Tutabilir mi?",
+      "summary": "\"Ne kadar fit olabiliriz?\" sorusu yanlış soru olabilir. Retention Guru'dan Paul Bedford ve Lift Podcast ekibinin tartıştığı çerçeve: satisficing vs optimizing — ve neden minimum efektif doz üye tutmanın anahtarı olabilir.",
+      "category": "Tesis Yönetimi",
+      "imageUrl": "https://static.wixstatic.com/media/5f0988_607c3bfb14264f20b63d0afdb0037a9f~mv2.png/v1/fill/w_1200,h_700,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/5f0988_607c3bfb14264f20b63d0afdb0037a9f~mv2.png",
+      "author": "Fitness & Wellness Türkiye",
+      "publishedAt": "2026-08-26T00:00:00Z",
+      "readMinutes": 9,
+      "sourceUrl": "https://www.fwturkiye.net/news/uye-tutma-retention"
+    },
+    {
+      "id": "live-87",
+      "title": "Masaj Tabancası Gerçekten İşe Yarıyor mu? Perküsyon Terapisi Araştırması Ne Söylüyor?",
+      "summary": "Esneklik ve egzersiz sonrası ağrı için kanıt güçlü. Antrenman öncesi performans artışı için değil. 5 peer-reviewed çalışma ve 2 sistematik derlemenin söyledikleri.",
+      "category": "Beslenme & Sağlık",
+      "imageUrl": "https://static.wixstatic.com/media/5f0988_106bffb738374f86a382985d68105b1d~mv2.png/v1/fill/w_1200,h_700,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/5f0988_106bffb738374f86a382985d68105b1d~mv2.png",
+      "author": "Fitness & Wellness Türkiye",
+      "publishedAt": "2026-08-24T00:00:00Z",
+      "readMinutes": 8,
+      "sourceUrl": "https://www.fwturkiye.net/news/masaj-tabancası-arastirmasi"
+    },
+    {
+      "id": "live-88",
+      "title": "Üye Kaybı Göründüğünden Pahalı Olabilir: Bağlantı Etkisi ve Üye Tutma",
+      "summary": "7 yıllık spor salonu verisi üzerine kurulu bir araştırma, üyelerin birbirlerinin devam kararlarını doğrudan etkilediğini kanıtladı. En bağlı üyenin ayrılması yalnızca kendi üyelik gelirini değil — çevresindeki ağın tamamını etkileyebilir.",
+      "category": "Tesis Yönetimi",
+      "imageUrl": "https://static.wixstatic.com/media/5f0988_c182dc9cd7094426bbe33cb009b0aa1d~mv2.png/v1/fill/w_1200,h_700,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/5f0988_c182dc9cd7094426bbe33cb009b0aa1d~mv2.png",
+      "author": "Fitness & Wellness Türkiye",
+      "publishedAt": "2026-08-23T00:00:00Z",
+      "readMinutes": 9,
+      "sourceUrl": "https://www.fwturkiye.net/news/uye-kaybi-retention"
+    },
+    {
+      "id": "live-89",
+      "title": "Hyrox Türkiye Q1",
+      "summary": "Q1 Kıyaslaması: 2025 vs 2026. Google Trends verilerine göre Türkiye'de Hyrox aramaları 2025 Q1'de sıfırken, 2026 Q1'de İstanbul yarışıyla birlikte 903 puanlık endekse ve 100 zirve değerine ulaştı.",
+      "category": "Hyrox/Functional",
+      "imageUrl": "https://static.wixstatic.com/media/5f0988_80874b388377430cb7a2258651af1bcd~mv2.png/v1/fill/w_1200,h_700,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/5f0988_80874b388377430cb7a2258651af1bcd~mv2.png",
+      "author": "Fitness & Wellness Türkiye",
+      "publishedAt": "2026-04-24T00:00:00Z",
+      "readMinutes": 5,
+      "sourceUrl": "https://www.fwturkiye.net/news/hyrox-turkiye-verileri"
     }
   ]
 }
