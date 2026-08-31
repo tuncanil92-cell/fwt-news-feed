@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T07:30:00Z",
+  "updatedAt": "2026-08-31T05:12:00Z",
   "articles": [
     {
       "id": "live-1",
@@ -979,6 +979,28 @@
       "publishedAt": "2026-04-24T00:00:00Z",
       "readMinutes": 5,
       "sourceUrl": "https://www.fwturkiye.net/news/hyrox-turkiye-verileri"
+    },
+    {
+      "id": "live-90",
+      "title": "Egzersiz ve Ruh Sağlığı: 79.551 Katılımcılı Araştırma Ne Söylüyor?",
+      "summary": "63 çalışma, 81 meta-analiz, 79.551 katılımcı. British Journal of Sports Medicine'de yayımlanan bu meta-meta-analiz, egzersizin depresyon ve anksiyete üzerindeki etkisini şimdiye kadarki en kapsamlı ölçekte inceledi.",
+      "category": "Beslenme & Sağlık",
+      "imageUrl": "https://static.wixstatic.com/media/5f0988_ef86f39c0d734e09b7d9e9c5af572217~mv2.png/v1/fill/w_1200,h_700,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/5f0988_ef86f39c0d734e09b7d9e9c5af572217~mv2.png",
+      "author": "Fitness & Wellness Türkiye",
+      "publishedAt": "2026-08-29T00:00:00Z",
+      "readMinutes": 8,
+      "sourceUrl": "https://www.fwturkiye.net/news/egzersiz-ve-ruh-sa%C4%9Fl%C4%B1%C4%9F%C4%B1-79.551-kat%C4%B1l%C4%B1mc%C4%B1l%C4%B1-ara%C5%9Ft%C4%B1rma-ne-s%C3%B6yl%C3%BCyor"
+    },
+    {
+      "id": "live-91",
+      "title": "Fitness Merkezi Mimari Tasarımı: Akademik Bulgular Işığında Sektörel Bir Değerlendirme",
+      "summary": "Fitness merkezi mimari tasarımında planlama ilkeleri, ergonomi, HVAC, akustik ve sürdürülebilirlik. Akademik kaynaklarla sektörel bir değerlendirme.",
+      "category": "Tesis Yönetimi",
+      "imageUrl": "https://static.wixstatic.com/media/5f0988_80f6f78042664dbdbfbc51efa8bf2823~mv2.png/v1/fill/w_1200,h_700,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/5f0988_80f6f78042664dbdbfbc51efa8bf2823~mv2.png",
+      "author": "Fitness & Wellness Türkiye",
+      "publishedAt": "2026-08-26T00:00:00Z",
+      "readMinutes": 10,
+      "sourceUrl": "https://www.fwturkiye.net/news/fitness-merkezi-mimari-tasarimi-akademik-bulgular"
     }
   ]
 }
