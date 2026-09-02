@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T05:12:00Z",
+  "updatedAt": "2026-09-02T05:13:31Z",
   "articles": [
     {
       "id": "live-1",
@@ -1001,6 +1001,28 @@
       "publishedAt": "2026-08-26T00:00:00Z",
       "readMinutes": 10,
       "sourceUrl": "https://www.fwturkiye.net/news/fitness-merkezi-mimari-tasarimi-akademik-bulgular"
+    },
+    {
+      "id": "live-92",
+      "title": "HYROX İzmir'e Geliyor: İlk Ege Yarışı ve Yeni Dijital Müzik Ortaklığı",
+      "summary": "19-20 Eylül 2026, Fuar İzmir. Türkiye'nin Ege kıyısında ilk HYROX yarışı — ve markanın ekosistemini genişleten yeni bir ortaklıkla aynı anda.",
+      "category": "Hyrox/Functional",
+      "imageUrl": "https://static.wixstatic.com/media/5f0988_496e69d6899a4d23bf7d5389b5e5e5db~mv2.png/v1/fill/w_1200,h_700,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/5f0988_496e69d6899a4d23bf7d5389b5e5e5db~mv2.png",
+      "author": "Fitness & Wellness Türkiye",
+      "publishedAt": "2026-09-01T00:00:00Z",
+      "readMinutes": 7,
+      "sourceUrl": "https://www.fwturkiye.net/news/hyrox-fitradio-izmir"
+    },
+    {
+      "id": "live-93",
+      "title": "Hipertrofi Zaman İçinde Nasıl İlerler? Yeni Meta-Analiz Sonuçları",
+      "summary": "Direnç antrenmanına başladığınızda kaslarınız ne kadar hızlı büyür? Ve bu büyüme hızı zamanla değişir mi? Dr. Brad Schoenfeld ve ekibinin yürüttüğü yeni bir sistematik derleme ve meta-analiz, bu soruya kapsamlı bir yanıt sunuyor.",
+      "category": "Beslenme & Sağlık",
+      "imageUrl": "https://static.wixstatic.com/media/5f0988_da59af7e789146a0bc138e2cc8928b08~mv2.png/v1/fill/w_1200,h_700,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/5f0988_da59af7e789146a0bc138e2cc8928b08~mv2.png",
+      "author": "Fitness & Wellness Türkiye",
+      "publishedAt": "2026-09-01T00:00:00Z",
+      "readMinutes": 5,
+      "sourceUrl": "https://www.fwturkiye.net/news/hipertrofi-antrenmani-meta-analiz"
     }
   ]
 }
