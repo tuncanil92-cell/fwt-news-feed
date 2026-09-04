@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T05:13:31Z",
+  "updatedAt": "2026-09-04T05:44:50Z",
   "articles": [
     {
       "id": "live-1",
@@ -1023,6 +1023,28 @@
       "publishedAt": "2026-09-01T00:00:00Z",
       "readMinutes": 5,
       "sourceUrl": "https://www.fwturkiye.net/news/hipertrofi-antrenmani-meta-analiz"
+    },
+    {
+      "id": "live-94",
+      "title": "Dijital Koçluk Akademiye El Uzatıyor: Runna × Loughborough Üniversitesi",
+      "summary": "Strava'nın sahip olduğu koşu uygulaması Runna, kişiselleştirilmiş antrenman planlarının arkasındaki algoritmayı akademik spor bilimiyle hizalamak için Loughborough Üniversitesi ile iş birliği kurdu. Bu ortaklık dijital koçluğun nereye gittiğine dair önemli bir sinyal.",
+      "category": "Teknoloji & İnovasyon",
+      "imageUrl": "https://static.wixstatic.com/media/5f0988_feed2c80ddcc428eb29f015efa78bc1b~mv2.png/v1/fill/w_265,h_137,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Image-empty-state.png",
+      "author": "Fitness & Wellness Türkiye",
+      "publishedAt": "2026-09-03T00:00:00Z",
+      "readMinutes": 7,
+      "sourceUrl": "https://www.fwturkiye.net/news/strava-dijital-personel-trainer"
+    },
+    {
+      "id": "live-95",
+      "title": "Güç Sporlarında Kişilik Farkları",
+      "summary": "Bodybuilder, Powerlifter, Halterci, Strongman ve CrossFit Atletleri Birbirinden Nasıl Ayrışıyor?",
+      "category": "Eğitim & Kariyer",
+      "imageUrl": "https://static.wixstatic.com/media/5f0988_bf652d4cb7ca4b0594fd65a2f514c0fd~mv2.png/v1/fill/w_265,h_137,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Image-empty-state.png",
+      "author": "Fitness & Wellness Türkiye",
+      "publishedAt": "2026-09-02T00:00:00Z",
+      "readMinutes": 9,
+      "sourceUrl": "https://www.fwturkiye.net/news/guc-sporlari-kisilik-farklari"
     }
   ]
 }
