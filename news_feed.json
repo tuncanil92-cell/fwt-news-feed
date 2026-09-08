@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T05:44:50Z",
+  "updatedAt": "2026-09-08T05:07:58Z",
   "articles": [
     {
       "id": "live-1",
@@ -1045,6 +1045,28 @@
       "publishedAt": "2026-09-02T00:00:00Z",
       "readMinutes": 9,
       "sourceUrl": "https://www.fwturkiye.net/news/guc-sporlari-kisilik-farklari"
+    },
+    {
+      "id": "live-96",
+      "title": "GLP-1 İlaçları + Yapılandırılmış Egzersiz: 496% ROI ve Sağlık Politikasını Değiştiren Araştırma",
+      "summary": "HFA'nın raporu GLP-1 tartışmasını kökten değiştirdi. FTI Consulting'den Dr. Kristy Piccinini, beş ülkeli ekonomik modelin ne söylediğini ve fitness sektörü için ne anlama geldiğini açıklıyor.",
+      "category": "Beslenme & Sağlık",
+      "imageUrl": "https://static.wixstatic.com/media/5f0988_e7cc0821b6b842d1a7c44becc26437e2~mv2.png/v1/fill/w_980,h_502,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/5f0988_e7cc0821b6b842d1a7c44becc26437e2~mv2.png",
+      "author": "Fitness & Wellness Türkiye",
+      "publishedAt": "2026-09-07T00:00:00Z",
+      "readMinutes": 8,
+      "sourceUrl": "https://www.fwturkiye.net/news/glp-1-ilaclari-fitness"
+    },
+    {
+      "id": "live-97",
+      "title": "Glute Antrenmanı Neden Fitness Sektörünün En Hızlı Büyüyen Kategorisi Haline Geldi?",
+      "summary": "Estetik bir trend olarak başladı. Şimdi performans, yaralanma önleme ve üye tutma stratejisinin merkezinde. Health Club Management'ın 2026 yılı özel dosyasında 7 büyük ekipman tedarikçisi glute antrenmanının sektöre etkisini değerlendiriyor.",
+      "category": "Tesis Yönetimi",
+      "imageUrl": "https://static.wixstatic.com/media/5f0988_2f9800396d394160a5d91954bb420912~mv2.png/v1/fill/w_980,h_502,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/5f0988_2f9800396d394160a5d91954bb420912~mv2.png",
+      "author": "Fitness & Wellness Türkiye",
+      "publishedAt": "2026-09-05T00:00:00Z",
+      "readMinutes": 8,
+      "sourceUrl": "https://www.fwturkiye.net/news/glute-ekipman-trendleri"
     }
   ]
 }
