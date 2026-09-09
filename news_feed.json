@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T05:07:58Z",
+  "updatedAt": "2026-09-09T07:14:15Z",
   "articles": [
     {
       "id": "live-1",
@@ -1067,6 +1067,17 @@
       "publishedAt": "2026-09-05T00:00:00Z",
       "readMinutes": 8,
       "sourceUrl": "https://www.fwturkiye.net/news/glute-ekipman-trendleri"
+    },
+    {
+      "id": "live-98",
+      "title": "Üye Deneyimi Rekabetinizin Gizli Silahı",
+      "summary": "İyi ekipman, iyi konum, iyi fiyat — bunların hepsi eşitleniyor. Geri kalanı tek şey: üyenizin her temas noktasında nasıl hissettirdiğiniz.",
+      "category": "Üye Deneyimi",
+      "imageUrl": "https://static.wixstatic.com/media/5f0988_d31b0dbd18d647179c84fc46f8c33eeb~mv2.png",
+      "author": "Fitness & Wellness Türkiye",
+      "publishedAt": "2026-09-08T00:00:00Z",
+      "readMinutes": 7,
+      "sourceUrl": "https://www.fwturkiye.net/news/uye-deneyimi-rekabet"
     }
   ]
 }
