@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T07:14:15Z",
+  "updatedAt": "2026-09-10T08:10:00Z",
   "articles": [
     {
       "id": "live-1",
@@ -1078,6 +1078,17 @@
       "publishedAt": "2026-09-08T00:00:00Z",
       "readMinutes": 7,
       "sourceUrl": "https://www.fwturkiye.net/news/uye-deneyimi-rekabet"
+    },
+    {
+      "id": "live-99",
+      "title": "HYROX Satıldı mı?",
+      "summary": "L Catterton liderliğindeki konsorsiyum HYROX'a yatırım yaptı ama kurucular çoğunluk kontrolünü yeniden kazandı — yaklaşık 600 milyon Euro değerlemeyle bu bir satış değil, kurucuların yeniden yatırım hikayesi.",
+      "category": "Hyrox/Functional",
+      "imageUrl": "https://static.wixstatic.com/media/5f0988_fbfea48b5e384d9cad8279a0abeb1e28~mv2.png",
+      "author": "Fitness & Wellness Türkiye",
+      "publishedAt": "2026-09-09T00:00:00Z",
+      "readMinutes": 6,
+      "sourceUrl": "https://www.fwturkiye.net/news/hyrox-sat%C4%B1ld%C4%B1-m%C4%B1"
     }
   ]
 }
