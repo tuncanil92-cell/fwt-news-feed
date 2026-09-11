@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T08:10:00Z",
+  "updatedAt": "2026-09-11T07:52:23Z",
   "articles": [
     {
       "id": "live-1",
@@ -1089,6 +1089,17 @@
       "publishedAt": "2026-09-09T00:00:00Z",
       "readMinutes": 6,
       "sourceUrl": "https://www.fwturkiye.net/news/hyrox-sat%C4%B1ld%C4%B1-m%C4%B1"
+    },
+    {
+      "id": "live-100",
+      "title": "HYROX İstanbul",
+      "summary": "1-2 Ağustos'ta binlerce sporcu İstanbul Fuar Merkezi'nde koşu ile fonksiyonel antrenmanı birleştiren bu yarışta ter dökecek. Peki HYROX tam olarak nedir ve bu dalga Türkiye fitness'ı için ne anlatıyor?",
+      "category": "Hyrox/Functional",
+      "imageUrl": "https://static.wixstatic.com/media/5f0988_66afafcd10634fa487802fba40348bc2~mv2.png/v1/fill/w_980,h_502,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/5f0988_66afafcd10634fa487802fba40348bc2~mv2.png",
+      "author": "Fitness & Wellness Türkiye",
+      "publishedAt": "2026-07-28T00:00:00Z",
+      "readMinutes": 6,
+      "sourceUrl": "https://www.fwturkiye.net/news/hyrox-istanbul"
     }
   ]
 }
