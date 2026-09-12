@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T07:52:23Z",
+  "updatedAt": "2026-09-12T07:27:05Z",
   "articles": [
     {
       "id": "live-1",
@@ -1100,6 +1100,17 @@
       "publishedAt": "2026-07-28T00:00:00Z",
       "readMinutes": 6,
       "sourceUrl": "https://www.fwturkiye.net/news/hyrox-istanbul"
+    },
+    {
+      "id": "live-101",
+      "title": "Dünyanın En Güzel 5 HYROX Destinasyonu — Ve Bir Türkiye Eki",
+      "summary": "Berlin'den Paris'e, Varşova'dan New York'a. HYROX sadece bir yarış değil — mekan da bir parça. Ve bu sezon İzmir de listeye girdi.",
+      "category": "Hyrox/Functional",
+      "imageUrl": "https://static.wixstatic.com/media/5f0988_9cce4352d3a04952a46057c8ec7926a8~mv2.png",
+      "author": "Fitness & Wellness Türkiye",
+      "publishedAt": "2026-09-11T00:00:00Z",
+      "readMinutes": 7,
+      "sourceUrl": "https://www.fwturkiye.net/news/dunyan%C4%B1n-en-g%C3%BCzel-5-hyrox-yeri"
     }
   ]
 }
