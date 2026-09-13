@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T07:27:05Z",
+  "updatedAt": "2026-09-13T12:03:33Z",
   "articles": [
     {
       "id": "live-1",
@@ -1111,6 +1111,83 @@
       "publishedAt": "2026-09-11T00:00:00Z",
       "readMinutes": 7,
       "sourceUrl": "https://www.fwturkiye.net/news/dunyan%C4%B1n-en-g%C3%BCzel-5-hyrox-yeri"
+    },
+    {
+      "id": "live-102",
+      "title": "Üyeleriniz Neden Kalıyor veya Gidiyor?",
+      "summary": "Türkiye ve Dünyadan Kritik Bilgiler! Fitness salonu müşteri beklentileri, zincir salonların sadakat sırları ve üyelik yenileme kararının gizli formülü üzerine üç akademik çalışmanın özeti.",
+      "category": "Üye Deneyimi",
+      "imageUrl": "https://static.wixstatic.com/media/11062b_177b077db4524ababaf6e5360a84c69c~mv2.jpg/v1/fill/w_980,h_551,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/11062b_177b077db4524ababaf6e5360a84c69c~mv2.jpg",
+      "author": "Fitness & Wellness Türkiye",
+      "publishedAt": "2025-11-10T00:00:00Z",
+      "readMinutes": 7,
+      "sourceUrl": "https://www.fwturkiye.net/news/fitness-uye-bagliligi"
+    },
+    {
+      "id": "live-103",
+      "title": "Türkiye'de Fitness Sektörü Neden Zorlanıyor?",
+      "summary": "FWT Quarterly 2026 Q1'den Editoryal Bir Analiz. Sorun talep değil, iş modeli: fiyat rekabeti, eğitmen ekonomisinin kırılganlığı ve global trendlerin yerel gerçeklikle uyuşmazlığı üzerine bir okuma.",
+      "category": "Sektör Raporları",
+      "imageUrl": "https://static.wixstatic.com/media/5f0988_d2149413bafd45b0ad00ce8f94d9a312~mv2.jpg/v1/fill/w_980,h_980,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/5f0988_d2149413bafd45b0ad00ce8f94d9a312~mv2.jpg",
+      "author": "Fitness & Wellness Türkiye",
+      "publishedAt": "2026-01-07T00:00:00Z",
+      "readMinutes": 6,
+      "sourceUrl": "https://www.fwturkiye.net/news/türkiye-fitness-sektoru-neden-zorlanıyor"
+    },
+    {
+      "id": "live-104",
+      "title": "Eğitmen Sertifkaları",
+      "summary": "NSCA-Certified Personal Trainer® (NSCA-CPT®) hakkında sınav yapısı, ön koşullar, ana çalışma kaynakları ve kariyer gelişim alanlarını içeren kapsamlı bir bilgilendirme.",
+      "category": "Eğitim & Kariyer",
+      "imageUrl": "https://static.wixstatic.com/media/11062b_2015fb7eb7cf46848a55a28244cf6d3c~mv2.jpg/v1/fill/w_980,h_735,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/11062b_2015fb7eb7cf46848a55a28244cf6d3c~mv2.jpg",
+      "author": "Fitness & Wellness Türkiye",
+      "publishedAt": "2025-03-01T00:00:00Z",
+      "readMinutes": 8,
+      "sourceUrl": "https://www.fwturkiye.net/news/egitmen-sertifika"
+    },
+    {
+      "id": "live-105",
+      "title": "Fitness ve Wellness Sektörünün Kısa Tarihçesi",
+      "summary": "Antik Yunan gymnasium'larından modern longevity ve biohacking trendlerine, fitness ve wellness sektörünün fiziksel kültür hareketleri ve tıbbi gelişmelerle şekillenen evrimi.",
+      "category": "Sektör Analizi",
+      "imageUrl": "https://static.wixstatic.com/media/5f0988_75f66b21e2fe4e8aa3c15db22436fcd1~mv2.jpg/v1/fill/w_526,h_526,al_c,q_80,enc_auto/5f0988_75f66b21e2fe4e8aa3c15db22436fcd1~mv2.jpg",
+      "author": "Fitness & Wellness Türkiye",
+      "publishedAt": "2025-11-13T00:00:00Z",
+      "readMinutes": 8,
+      "sourceUrl": "https://www.fwturkiye.net/news/fitness-tarihi"
+    },
+    {
+      "id": "live-106",
+      "title": "Heavy Lifting Koşu Ekonomisini Geliştiriyor mu? Yeni Bir Meta-Analiz Ne Diyor",
+      "summary": "Orta ve uzun mesafe koşucularında kuvvet antrenmanının etkisini inceleyen kapsamlı bir sistematik derleme, ağır yüklenmelerin koşu ekonomisi üzerinde ölçülebilir bir fayda sağladığını ortaya koyuyor.",
+      "category": "Beslenme & Sağlık",
+      "imageUrl": "https://static.wixstatic.com/media/5f0988_953279bb623e42c6af9d5ff58e9d440f~mv2.png/v1/fill/w_980,h_502,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/5f0988_953279bb623e42c6af9d5ff58e9d440f~mv2.png",
+      "author": "Fitness & Wellness Türkiye",
+      "publishedAt": "2026-09-12T00:00:00Z",
+      "readMinutes": 7,
+      "sourceUrl": "https://www.fwturkiye.net/news/kuvvet-antrenmanı-koşu-ekonomisini-geliştiriyor-mu-yeni-bir-meta-analiz-ne-diyor"
+    },
+    {
+      "id": "live-107",
+      "title": "Almanya 2026 Fitness Trendleri için geri sayım başladı",
+      "summary": "DSSV, Deloitte ve DHfPG'nin 2026 Temel Veriler Çalışması (Eckdatenstudie), Almanya'daki fitness pazarını inceliyor; fitness ve sağlık tesisi işletmecileri katılıma davet ediliyor.",
+      "category": "Sektör Raporları",
+      "imageUrl": "https://static.wixstatic.com/media/11062b_5a227222c9e644c2a25299955743d1e6~mv2.jpg/v1/fill/w_980,h_649,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/11062b_5a227222c9e644c2a25299955743d1e6~mv2.jpg",
+      "author": "Fitness & Wellness Türkiye",
+      "publishedAt": "2025-11-14T00:00:00Z",
+      "readMinutes": 6,
+      "sourceUrl": "https://www.fwturkiye.net/news/almanya-fitness-trendleri"
+    },
+    {
+      "id": "live-108",
+      "title": "Türkiye Fitness Sektöründe Başarıyı Belirleyen 4 Kritik Faktör",
+      "summary": "Tesis, Program, Hizmet ve Pazarlama. Gazi Üniversitesi'nin araştırmasına dayanan, fitness işletmelerinin başarısını etkileyen dört kritik faktörün tesis yöneticileri bakış açısıyla incelenmesi.",
+      "category": "İşletme & Yönetim",
+      "imageUrl": "https://static.wixstatic.com/media/11062b_10f9e97314674cc4927c37463d479b92~mv2.jpg/v1/fill/w_980,h_668,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/11062b_10f9e97314674cc4927c37463d479b92~mv2.jpg",
+      "author": "Fitness & Wellness Türkiye",
+      "publishedAt": "2026-01-13T00:00:00Z",
+      "readMinutes": 9,
+      "sourceUrl": "https://www.fwturkiye.net/news/fitness-sektoru-basari-faktorleri"
     }
   ]
 }
