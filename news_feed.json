@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T12:03:33Z",
+  "updatedAt": "2026-09-16T19:46:12Z",
   "articles": [
     {
       "id": "live-1",
@@ -1188,6 +1188,39 @@
       "publishedAt": "2026-01-13T00:00:00Z",
       "readMinutes": 9,
       "sourceUrl": "https://www.fwturkiye.net/news/fitness-sektoru-basari-faktorleri"
+    },
+    {
+      "id": "live-109",
+      "title": "HYROX Beijing: Viral Bir Kriz ve Kurumsal Yönetim Testi",
+      "summary": "12 Eylül 2026'da Pekin'de yaşanan olay sosyal medyayı sardı. HYROX'un krize verdiği yanıt ise spor yönetiminde kriz iletişiminin nasıl yapılması gerektiğine dair güçlü bir örnek sunuyor.",
+      "category": "Hyrox/Functional",
+      "imageUrl": "https://static.wixstatic.com/media/5f0988_56e65c6011bb4e07b7a21163da8c52a1~mv2.png/v1/fill/w_980,h_502,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/5f0988_56e65c6011bb4e07b7a21163da8c52a1~mv2.png",
+      "author": "Fitness & Wellness Türkiye",
+      "publishedAt": "2026-09-15T00:00:00Z",
+      "readMinutes": 7,
+      "sourceUrl": "https://www.fwturkiye.net/news/hyrox-beijing-viral-bir-kriz"
+    },
+    {
+      "id": "live-110",
+      "title": "Pazarlama Metrikleriniz Size Tam Hikayeyi Anlatıyor mu?",
+      "summary": "Lead Başına Maliyet ve lead sayısı yalnızca başlangıç noktaları. Kampanya, CRM ve satış verilerini birbirine bağlamak fitness markalarının daha akıllı kararlar almasına nasıl yardımcı oluyor? JL Marketing kurucusu Justin Lyons açıklıyor.",
+      "category": "Pazarlama & Büyüme",
+      "imageUrl": "https://static.wixstatic.com/media/5f0988_e031bdfa70564eb880c86659edab4f5f~mv2.png/v1/fill/w_980,h_502,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/5f0988_e031bdfa70564eb880c86659edab4f5f~mv2.png",
+      "author": "Fitness & Wellness Türkiye",
+      "publishedAt": "2026-09-15T00:00:00Z",
+      "readMinutes": 8,
+      "sourceUrl": "https://www.fwturkiye.net/news/fitness-pazarlama-sistemleri"
+    },
+    {
+      "id": "live-111",
+      "title": "Basic-Fit Genişlemeyi Durdurmadı: 26 Spor Salonu, 26 Milyon Euro",
+      "summary": "Hollandalı düşük maliyetli zincir Speedfit ve Kraftwerk'i bünyesine katarak Avusturya ve Almanya'daki varlığını güçlendiriyor. İşlem dördüncü çeyrekte tamamlanacak.",
+      "category": "Sektör Haberleri",
+      "imageUrl": "https://static.wixstatic.com/media/5f0988_7ecbe6b8b7b641bf89cb84b44342e546~mv2.png/v1/fill/w_980,h_502,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/5f0988_7ecbe6b8b7b641bf89cb84b44342e546~mv2.png",
+      "author": "Fitness & Wellness Türkiye",
+      "publishedAt": "2026-09-13T00:00:00Z",
+      "readMinutes": 6,
+      "sourceUrl": "https://www.fwturkiye.net/news/basic-fit-fitness-salonu"
     }
   ]
 }
