@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T19:46:12Z",
+  "updatedAt": "2026-09-18T06:48:01Z",
   "articles": [
     {
       "id": "live-1",
@@ -1221,6 +1221,28 @@
       "publishedAt": "2026-09-13T00:00:00Z",
       "readMinutes": 6,
       "sourceUrl": "https://www.fwturkiye.net/news/basic-fit-fitness-salonu"
+    },
+    {
+      "id": "live-112",
+      "title": "Soya mı, Hayvansal Protein mi? Kas Gelişimi İçin Gerçekten Fark Var mı?",
+      "summary": "Direnç Antrenmanında Protein Kaynağı Önemli mi?",
+      "category": "Beslenme & Sağlık",
+      "imageUrl": "https://static.wixstatic.com/media/5f0988_071f3c3f6d7e4898b0991e085bcf068e~mv2.png/v1/fill/w_980,h_502,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/5f0988_071f3c3f6d7e4898b0991e085bcf068e~mv2.png",
+      "author": "Fitness & Wellness Türkiye",
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "readMinutes": 7,
+      "sourceUrl": "https://www.fwturkiye.net/news/soya-mi-hayvansal-protein-mi"
+    },
+    {
+      "id": "live-113",
+      "title": "HYROX Pekin'de Ne Yapmaya Çalışıyor?",
+      "summary": "Bir hafta önce kimse Joanna Wietrzyk'in ismini bilmiyordu — bugün dünya rekortmeni olması bile haberin ikinci planında kalıyor. 12 Eylül'de Pekin'de koştuğu yarış, HYROX'un bugüne kadar gördüğü en zor haftayı başlattı.",
+      "category": "Hyrox/Functional",
+      "imageUrl": "https://static.wixstatic.com/media/5f0988_b1c828815653465891e21e33e526956c~mv2.png/v1/fill/w_980,h_502,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/5f0988_b1c828815653465891e21e33e526956c~mv2.png",
+      "author": "Fitness & Wellness Türkiye",
+      "publishedAt": "2026-09-17T00:00:00Z",
+      "readMinutes": 8,
+      "sourceUrl": "https://www.fwturkiye.net/news/hyrox-ücret-iadesi"
     }
   ]
 }
