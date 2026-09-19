@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T06:48:01Z",
+  "updatedAt": "2026-09-19T06:58:29Z",
   "articles": [
     {
       "id": "live-1",
@@ -1243,6 +1243,28 @@
       "publishedAt": "2026-09-17T00:00:00Z",
       "readMinutes": 8,
       "sourceUrl": "https://www.fwturkiye.net/news/hyrox-ücret-iadesi"
+    },
+    {
+      "id": "live-114",
+      "title": "Kadınların Spor Salonuyla İlişkisi: Sektörün Görmezden Geldiği Tasarım Sorunu",
+      "summary": "Kadınlar sağlık, egzersiz ve zindelik konusunda ilgisiz değil. Aksine, hanelerde sıklıkla birincil sağlık karar vericileri onlar. Fitness içeriğiyle yoğun biçimde ilgileniyorlar, giyilebilir teknolojiye yatırım yapıyorlar ve informal egzersize büyük sayılarda katılıyorlar. Sorun motivasyon değil. Sorun, kadınlarla belirli bir mekan ve hizmet anlayışı arasındaki ilişki.",
+      "category": "Üye Deneyimi",
+      "imageUrl": "https://static.wixstatic.com/media/5f0988_5266fda0173c43daa0178b0b4348516b~mv2.png/v1/fill/w_980,h_502,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/5f0988_5266fda0173c43daa0178b0b4348516b~mv2.png",
+      "author": "Fitness & Wellness Türkiye",
+      "publishedAt": "2026-09-19T00:00:00Z",
+      "readMinutes": 9,
+      "sourceUrl": "https://www.fwturkiye.net/news/kad%C4%B1n-fitness-spor-salonu"
+    },
+    {
+      "id": "live-115",
+      "title": "HYROX Müşterilerinin Kim Olduğunu Unutmamalı",
+      "summary": "Beijing krizi L Catterton anlaşmasından tam 3 gün sonra patlak verdi. Bloomberg'in yorumu net: HYROX'un ticari başarısı elit atletlerin değil, kitlesel katılımcıların üzerine inşa edilmiş. Ve bu kitleyi kaybetmek büyüme stratejisini tehlikeye atar.",
+      "category": "Hyrox/Functional",
+      "imageUrl": "https://static.wixstatic.com/media/5f0988_12ee4eb30aae43a0a876c4c837408716~mv2.jpg/v1/fill/w_765,h_511,al_c,q_85,enc_auto/5f0988_12ee4eb30aae43a0a876c4c837408716~mv2.jpg",
+      "author": "Fitness & Wellness Türkiye",
+      "publishedAt": "2026-09-18T00:00:00Z",
+      "readMinutes": 8,
+      "sourceUrl": "https://www.fwturkiye.net/news/hyrox-musterileri"
     }
   ]
 }
