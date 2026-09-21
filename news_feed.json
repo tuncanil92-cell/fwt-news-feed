@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T06:58:29Z",
+  "updatedAt": "2026-09-21T06:20:00Z",
   "articles": [
     {
       "id": "live-1",
@@ -1265,6 +1265,28 @@
       "publishedAt": "2026-09-18T00:00:00Z",
       "readMinutes": 8,
       "sourceUrl": "https://www.fwturkiye.net/news/hyrox-musterileri"
+    },
+    {
+      "id": "live-116",
+      "title": "Koşmak Sizi Zeki Yapar mı? Yoksa Zekiler mi Koşar?",
+      "summary": "Bir Türk ekonomist profesör ABD'ye taşındığında her yerde koşucu gördü. Akademisyenler neden bu kadar çok koşuyor? Ve koşmak gerçekten beyin bağlantısını güçlendiriyor mu? Runner's World'ün soruşturması.",
+      "category": "Beslenme & Sağlık",
+      "imageUrl": "https://static.wixstatic.com/media/5f0988_4b6943ba84c94637aa4d587fa4f731ef~mv2.png/v1/fill/w_1200,h_700,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/5f0988_4b6943ba84c94637aa4d587fa4f731ef~mv2.png",
+      "author": "Fitness & Wellness Türkiye",
+      "publishedAt": "2026-09-21T00:00:00Z",
+      "readMinutes": 7,
+      "sourceUrl": "https://www.fwturkiye.net/news/zekiler-mi-kosar"
+    },
+    {
+      "id": "live-117",
+      "title": "HYROX mu, CrossFit mi? Yanlış Soru! Cevap: İkisi de.",
+      "summary": "1,6 milyon yarışmacı, bekleme listesine giren dersler ve tek kamptan 30.000 dolar gelir. CrossFit ve fonksiyonel fitness salonları HYROX'u nasıl entegre ediyor.",
+      "category": "Hyrox/Functional",
+      "imageUrl": "https://static.wixstatic.com/media/5f0988_03534f2a3e7248c18b445bc9863d4cfc~mv2.png/v1/fill/w_1200,h_700,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/5f0988_03534f2a3e7248c18b445bc9863d4cfc~mv2.png",
+      "author": "Fitness & Wellness Türkiye",
+      "publishedAt": "2026-09-19T00:00:00Z",
+      "readMinutes": 8,
+      "sourceUrl": "https://www.fwturkiye.net/news/hyrox-mu-crossfit-mi-yanlis-soru"
     }
   ]
 }
