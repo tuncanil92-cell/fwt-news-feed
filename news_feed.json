@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T06:20:00Z",
+  "updatedAt": "2026-09-23T06:20:00Z",
   "articles": [
     {
       "id": "live-1",
@@ -1287,6 +1287,17 @@
       "publishedAt": "2026-09-19T00:00:00Z",
       "readMinutes": 8,
       "sourceUrl": "https://www.fwturkiye.net/news/hyrox-mu-crossfit-mi-yanlis-soru"
+    },
+    {
+      "id": "live-118",
+      "title": "CrossFit Yaralanmayla Antrenman Yapar mı? 198 Kişilik Araştırma Cevaplıyor.",
+      "summary": "Loughborough ve Newcastle üniversitelerinden araştırmacılar CrossFit katılımcılarının yaralanma ve hastalık kararlarını nasıl verdiklerini inceledi. Cevap basit değil: Risk almak ile kendine bakmak arasındaki tercih, kimlik, topluluk ve çok boyutlu sağlık dengesiyle şekilleniyor.",
+      "category": "Beslenme & Sağlık",
+      "imageUrl": "https://static.wixstatic.com/media/5f0988_9c36603eb23d41389c05ed2eee1c666a~mv2.png/v1/fill/w_1200,h_700,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/5f0988_9c36603eb23d41389c05ed2eee1c666a~mv2.png",
+      "author": "Fitness & Wellness Türkiye",
+      "publishedAt": "2026-09-22T00:00:00Z",
+      "readMinutes": 8,
+      "sourceUrl": "https://www.fwturkiye.net/news/crossfit-yaralanmalari-arastirma"
     }
   ]
 }
